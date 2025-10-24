@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\util\\ticketdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\util\\ticketdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\models\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\adminmenus\\ucmanageticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|C:\\Users\\user\\source\\repos\\AppConcertTicket\\appconcertticket\\adminmenus\\ucmanageticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\adminmenus\\ucmanageconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|C:\\Users\\user\\source\\repos\\AppConcertTicket\\appconcertticket\\adminmenus\\ucmanageconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\adminmenus\\ucmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|C:\\Users\\user\\source\\repos\\AppConcertTicket\\appconcertticket\\adminmenus\\ucmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|c:\\users\\user\\source\\repos\\appconcertticket\\appconcertticket\\adminmenus\\ucmanageaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4274AE-8207-40CA-99C8-5A005DEDDE2E}|AppConcertTicket\\AppConcertTicket.csproj|solutionrelative:appconcertticket\\adminmenus\\ucmanageaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Program.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Program.cs",
+              "RelativeToolTip": "AppConcertTicket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:53:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AppSettings.cs",
+              "RelativeToolTip": "AppConcertTicket\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:56.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketDocument.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Util\\TicketDocument.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Util\\TicketDocument.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Util\\TicketDocument.cs",
+              "RelativeToolTip": "AppConcertTicket\\Util\\TicketDocument.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Ticket.cs",
+              "RelativeToolTip": "AppConcertTicket\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Concert.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Models\\Concert.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Concert.cs",
+              "RelativeToolTip": "AppConcertTicket\\Models\\Concert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Models\\Account.cs",
+              "RelativeToolTip": "AppConcertTicket\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:45.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AppConcertTicket\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:52:45.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucManageTicket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAqwEkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:41:08.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucManageTicket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageTicket.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageTicket.cs [Design]",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageTicket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T14:24:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucManageConcert.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAiwGMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:25:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucManageConcert.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageConcert.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageConcert.cs [Design]",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageConcert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:24:32.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucManageAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.Designer.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.Designer.cs",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageAccount.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAWwGgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:21:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucManageAccount.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:15:51.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucManageAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "RelativeDocumentMoniker": "AppConcertTicket\\AdminMenus\\ucManageAccount.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AppConcertTicket\\AppConcertTicket\\AdminMenus\\ucManageAccount.cs [Design]",
+              "RelativeToolTip": "AppConcertTicket\\AdminMenus\\ucManageAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T11:11:22.523Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
